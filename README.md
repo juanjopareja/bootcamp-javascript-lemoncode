@@ -1,4 +1,10 @@
 ## Prácticas del Bootcamp de JavasCript de Lemoncode
+<br>
+<p align="center">
+<img src="https://images.squarespace-cdn.com/content/v1/56cdb491a3360cdd18de5e16/1536153413819-R1MYY9PC7NFCXX85EJMV/1.png" width="250">
+</p>
+<br>
+
 Código de cada una de las prácticas del ***Bootcamp JavaScript*** ofrecido por [Lemoncode](https://lemoncode.net/)
 
 ### **Contenido:**
