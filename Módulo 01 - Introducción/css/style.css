@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #707080;
+}
+
+input {
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 0 32px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input:last-child {
+    margin-bottom: 16px;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    position: relative;
+}
+
+.data, .action, .fullName {
+    padding: 10px 16px;
+    width: 50%;
+    margin: auto;
+}
+
+.action {
+    padding-bottom: 30px;
+    padding-top: 0px;
+}
+
+.update {
+    background-color: #3f3d56;
+    border: 2px solid #f50000;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 16px 16px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px auto;
+    cursor: pointer;
+}
+
+.update:hover {
+    background-color: #2f2e41;
+    border: 2px solid #c20000;
+}
+
+.image {
+    text-align: center;
+    margin: 100px 0 25px 0;
+    position: relative;
+}
+
+.dataLabel {
+    color: white;
+    text-shadow: 1px 1px 1px #3f3d56;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.dataInput {
+    font-size: 16px;
+}
+
+.fullNameParagraph {
+    color: white;
+    text-shadow: 1px 1px 1px #3f3d56;
+    font-size: 16px;
+}
+
+.avatar {
+    width: 25%;
+}

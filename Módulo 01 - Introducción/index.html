@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datos de usuario</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="image">
+            <img class="avatar" id="avatar" src="" alt="avatar">
+        </div>
+        <div class="data">
+            <label class="dataLabel" for="name">Nombre</label>
+            <input class="dataInput" type="text" id="name" name="name">
+            <label class="dataLabel" for="lastName">Apellido</label>
+            <input class="dataInput" type="text" id="lastName" name="lastName">
+        </div>
+        <div class="action">
+            <button class="update" type="button" onclick="console.log(document.getElementById('name').value)">Nombre por consola</button>
+        </div>
+        <div class="fullName">
+            <p class="fullNameParagraph" id="fullNameParagraph"> 
+                <span id="nameParagraph">Tu nombre completo si haces 'click' en el siguiente botón:</span>
+                <span id="lastNameParagraph"></span>
+            </p>
+        </div>
+        <div class="action">
+            <button class="update" type="button" onclick="document.getElementById('nameParagraph').innerText = 
+            document.getElementById('name').value; 
+            document.getElementById('lastNameParagraph').innerText = 
+            document.getElementById('lastName').value">Nombre completo</button>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
