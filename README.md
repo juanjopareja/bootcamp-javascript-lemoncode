@@ -9,7 +9,7 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** ofrecido por
 
 ### **Contenido:**
 * Módulo 00 - [Seminario Previo](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2000%20-%20Seminario%20Previo)
-* Módulo 01 - Introducción
+* Módulo 01 - [Introducción](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2001%20-%20Introducci%C3%B3n)
 * Módulo 02 - Variables y Tipos de datos
 * Módulo 03 - Operadores y Flujos de control
 * Módulo 04 - Funciones y Eventos
