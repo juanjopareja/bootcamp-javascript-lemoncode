@@ -29,6 +29,10 @@ input:last-child {
     margin: auto;
 }
 
+.action, .fullName {
+    text-align: center;
+}
+
 .action {
     padding-bottom: 30px;
     padding-top: 0px;
