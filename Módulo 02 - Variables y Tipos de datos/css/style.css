@@ -72,5 +72,5 @@ body {
 .score {
     font-size: 32px;
     color: goldenrod;
-    margin-bottom: 0px;
+    margin: 0;
 }
