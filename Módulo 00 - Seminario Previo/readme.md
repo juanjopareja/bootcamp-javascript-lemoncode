@@ -1,9 +1,11 @@
 ## Descripción  
-Maquetación básica de un listado de hoteles
+Maquetación básica de un listado de hoteles.
 
 ## Tecnologías usadas
-<span><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></span>
+<span>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+</span>
 
 ## Vista previa
 <p align="center">
