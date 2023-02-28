@@ -5,7 +5,7 @@
 </p>
 <br>
 
-Código de cada una de las prácticas del ***Bootcamp JavaScript*** ofrecido por [Lemoncode](https://lemoncode.net/)
+Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido por [Lemoncode](https://lemoncode.net/)
 
 ### **Contenido:**
 * Módulo 00 - [Seminario Previo](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2000%20-%20Seminario%20Previo)
