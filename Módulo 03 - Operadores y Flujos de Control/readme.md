@@ -6,7 +6,6 @@ Puesta en práctica de operadores y flujos de control sin hacer uso de funciones
 ## Tecnologías usadas
 <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="50" height="50"/>
 </span>
 
