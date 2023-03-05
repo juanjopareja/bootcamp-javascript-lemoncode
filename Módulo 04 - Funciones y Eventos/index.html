@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Simple Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <main class="calculator">
+
+        <div class="calculator-body">
+            <div class="calculator-title">
+                <h2>Digital Calculator</h2>
+            </div>
+
+            <div class="calculator-data">
+                <div class="calculator-data-operand">
+                    <input type="number" id="data-operand1">
+                </div>
+    
+                <div class="calculator-data-operand">
+                    <input type="number" id="data-operand2">
+                </div>
+            </div>
+    
+            <div class="calculator-operation">
+                <div>
+                    <button class="text" id="add-operation">+</button>
+                </div>
+                <div>
+                    <button class="text" id="subtract-operation">&#x2212</button>
+                </div>
+                <div>
+                    <button class="text" id="multiply-operation">x</button>
+                </div>
+                <div>
+                    <button class="text" id="divide-operation">&#247</button>
+                </div>
+            </div>
+
+            <div class="calculator-result">
+                <div class="calculator-result-reset">
+                    <button class="text" id="reset-operation">C</button>
+                </div>
+
+                <div class="calculator-result-equal">
+                    <span class="equal text">&#61</span>
+                </div>
+
+                <div class="calculator-result-total">
+                    <p id="total-result"></p>
+                </div>
+            </div>
+        </div>
+    </main>
+    
+    <script src="js/calculator.js"></script>
+</body>
+</html>
