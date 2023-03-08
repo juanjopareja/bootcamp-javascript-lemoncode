@@ -12,7 +12,7 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
 * Módulo 01 - [Introducción](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2001%20-%20Introducci%C3%B3n)
 * Módulo 02 - [Variables y Tipos de datos](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2002%20-%20Variables%20y%20Tipos%20de%20datos)
 * Módulo 03 - [Operadores y Flujos de control](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2003%20-%20Operadores%20y%20Flujos%20de%20Control)
-* Módulo 04 - Funciones y Eventos
+* Módulo 04 - [Funciones y Eventos](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos)
 * Módulo 05 - Arrays y Bucles
 * Módulo 06 - Algoritmos
 * Módulo 07 - Expresiones regulares
