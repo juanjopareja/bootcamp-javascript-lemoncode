@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+h2, h3 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 7px double #557950;
+    outline: 4px solid #cfba44;
+    border-radius: 3rem;
+    height: auto;
+    width: 50rem;
+    padding: 5rem 8rem;
+}
+
+.form-title,
+.form-body {
+    width: 100%;
+}
+
+.form-title {
+    margin-bottom: 5rem;
+    width: 100%;
+}
+
+.form-title h2 {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 8.1rem;
+    color: #cfba44;
+    text-align: center;
+    text-shadow: 2px 2px 2px #557950;
+
+}
+
+.form-title h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6rem;
+    color: #557950;
+    text-shadow: 1px 1px 2px;
+    text-transform: uppercase;
+    text-align: right;
+    translate: -.5rem -1.5rem;
+}
+
+.form-field {
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.form-field label {
+    font-family: 'Raleway', sans-serif;
+    flex-basis: 20rem;
+    font-size: 2.1rem;
+}
+
+.form-field input,
+.form-field select {
+    font-family: 'Raleway', sans-serif;
+    padding: .2rem .5rem;
+    font-size: 1.6rem;
+}
+
+#number-nights,
+#parking-nights {
+    width: 4.5rem;
+    padding-left: 1rem;
+    text-align: left;
+}
+
+.total-price {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+    border-top: 1px solid black;
+}
+
+.total-text,
+.total-result {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2.1rem;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+
+#booking-button {
+    padding: 1rem 2rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #fff;
+    border: none;
+    background-color: #557950;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 2px #cfba44;
+    cursor: pointer;
+}
+
+#booking-button:hover {
+    background-color: #486844;
+}

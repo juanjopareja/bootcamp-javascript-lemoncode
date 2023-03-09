@@ -1,0 +1,119 @@
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    height: 100%;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Digital7";
+    src: url('../fonts/Digital7.ttf') format('truetype');
+}
+
+.text {
+    font-size: 5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.calculator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    background-color: #e1e1e1;
+}
+
+.calculator-title {
+    display: flex;
+    align-items: end;
+}
+
+.calculator-title h2 {
+    margin-top: 0;
+    margin-bottom: 4rem;
+    font-family: 'Kanit', sans-serif;
+    font-size: 32px;
+    letter-spacing: .2rem;
+    color: #fffceffd
+}
+
+.calculator-body {  
+    display: grid;
+    grid-template-rows: repeat(2, 1fr) 2fr;
+    width: 55rem;
+    padding: 4rem;
+    border-radius: 2rem;
+    background-color: #333333;
+    border: 1px solid #424242;
+    box-shadow: 7px 7px 1px #4e4e4e;
+}
+
+.calculator-data-operand input {
+    height: 100%;
+    width: 100%;
+    background-color: #c5cfda;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: -1px -1px black;
+    font-family:'Digital7', Courier, monospace;
+    font-size: 81px;
+    text-shadow: 3px 3px rgb(122, 122, 122);
+    text-align: right;
+    margin: 0;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.calculator-data-operand input:focus-visible {
+    outline: none;
+}
+
+.calculator-operation {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+}
+
+.calculator-operation div:nth-child(5) {
+    grid-column: 1 / 3;
+}
+
+.calculator-operation div:nth-child(6) {
+    grid-column: 3 / 5;
+}
+
+.calculator-operation button {
+    background-color: #f59648;
+    border: 1px solid #f59648;
+    box-shadow: 2px 2px 1px #fdb071;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 100%;
+    height: 10rem;
+}
+
+.total-operation button {
+    background-color: #fffceffd;
+    border-color: #e1e1e1;
+    box-shadow: 2px 2px 1px #fffceffd;
+    color: #333;
+    font-size: 56px;
+}
+
+.calculator-operation button:active {
+    box-shadow: none;
+    translate: 1px 1px;
+}
