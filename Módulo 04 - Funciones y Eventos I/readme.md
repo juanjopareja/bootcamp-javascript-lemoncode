@@ -1,7 +1,7 @@
 ## Descripción  
 Calculadora sencilla con las 4 operaciones básicas: suma, resta, multiplicación y división. El usuario rellena los 2 inputs de arriba con sendos operandos y hace click en uno de los botones para mostrar el resultado en un tercer campo. Si alguno de los operandos está vacío se muestra el mensaje de "Error".
 
-## Tecnologías usadas
+## Tecnologías
 <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
