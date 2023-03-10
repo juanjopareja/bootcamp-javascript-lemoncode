@@ -98,7 +98,6 @@ function totalNumber () {
     newNumber();
     selectOperation();
     setResult();
-    console.log(partialTotal);
     switchTotalResult(true);
 }
 
