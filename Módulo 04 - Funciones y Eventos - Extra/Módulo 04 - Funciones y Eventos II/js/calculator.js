@@ -3,7 +3,6 @@ var partialTotal = 0;
 var lastNumber;
 var operationType;
 
-
 // Get Operand
 var getNumber = () => parseFloat(document.getElementById("data-operand").value);
 
