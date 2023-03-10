@@ -2,7 +2,7 @@
 Creación de un formulario simple que permita interactuar con el DOM. Muestra por consola el contenido de uno de los "inputs" al pulsar un botón, 
 y el nombre completo en el mismo formulario al pulsar otro.
 
-## Tecnologías usadas
+## Tecnologías
 <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
