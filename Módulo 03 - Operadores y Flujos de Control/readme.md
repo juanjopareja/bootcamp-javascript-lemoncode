@@ -3,7 +3,7 @@ Puesta en práctica de operadores y flujos de control sin hacer uso de funciones
  - Cálculo del precio total de un producto entre varios teniendo en cuenta el IVA específico de cada uno. 
  - Una simplificación del cálculo del salario neto mensual para una nómina.
 
-## Tecnologías usadas
+## Tecnologías
 <span>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="css3" width="50" height="50"/>
