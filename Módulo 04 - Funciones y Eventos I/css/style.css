@@ -15,7 +15,7 @@ body {
 
 @font-face {
     font-family: "Digital7";
-    src: url('/fonts/Digital7.ttf') format('truetype');
+    src: url('../fonts/Digital7.ttf') format('truetype');
 }
 
 .text {
