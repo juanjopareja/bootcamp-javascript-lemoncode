@@ -1,6 +1,6 @@
 ## Descripción  
 Calculadora secuencial con las 4 operaciones de suma, resta, multiplicación y división. 
-El usuario introduce un primer número, hace click en una operación, a continuacion introduce un segundo númeroro, 
+El usuario introduce un primer número, hace click en una operación, a continuación introduce un segundo número, 
 click en una nueva operación, y así sucesivamente hasta pulsar el botón de resultado.
 Si pulsa los botones de operación o resultado sin introducirse ningún número se muestra el mensaje de "Error". Si hace click en "C" se reinicia.
 
