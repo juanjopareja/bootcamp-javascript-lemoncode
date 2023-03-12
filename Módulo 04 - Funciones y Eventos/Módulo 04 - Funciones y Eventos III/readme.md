@@ -1,5 +1,5 @@
 ## Descripción  
-Formulario de reserva para un hotel. El resultado final se muestra a medida que el usuario va haciendo cambios en el mismo.
+Formulario de reserva para un hotel. El precio total de la reserva se va mostrando a medida que el usuario va haciendo cambios en el mismo.
 
 ## Tecnologías
 <span>
