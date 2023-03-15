@@ -139,6 +139,7 @@ function premiumList(carrito) {
     }
 }
 
+// Print Result
 function printResult() {
     for (const product of carrito) {
         var createEl = document.createElement('li');
