@@ -16,7 +16,7 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
   * [Funciones y Eventos I](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20I)
   * [Funciones y Eventos II](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20II)
   * [Funciones y Eventos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20III)
-* Módulo 05 - Arrays y Bucles
+* Módulo 05 - [Arrays y Bucles](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2005%20-%20Arrays%20y%20Bucles)
 * Módulo 06 - Algoritmos
 * Módulo 07 - Expresiones regulares
 * Módulo 08 - Imports
