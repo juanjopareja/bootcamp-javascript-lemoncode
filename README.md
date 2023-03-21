@@ -12,10 +12,9 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
 * Módulo 01 - [Introducción](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2001%20-%20Introducci%C3%B3n)
 * Módulo 02 - [Variables y Tipos de datos](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2002%20-%20Variables%20y%20Tipos%20de%20datos)
 * Módulo 03 - [Operadores y Flujos de control](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2003%20-%20Operadores%20y%20Flujos%20de%20Control)
-* Módulo 04 - Funciones y Eventos
-  * [Funciones y Eventos I](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20I)
-  * [Funciones y Eventos II](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20II)
-  * [Funciones y Eventos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20III)
+* Módulo 04.a - [Funciones y Eventos I](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20I)
+* Módulo 04.b - [Funciones y Eventos II](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20II)
+* Módulo 04.c - [Funciones y Eventos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20III)
 * Módulo 05 - [Arrays y Bucles](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2005%20-%20Arrays%20y%20Bucles)
 * Módulo 06 - Algoritmos
 * Módulo 07 - Expresiones regulares
