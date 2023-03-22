@@ -1,0 +1,148 @@
+:root {
+    --white: #ffffff;
+    --black: #111111;
+    --green: #429c26;
+    --darkgreen: #3a8a22;
+    --darkgrey: #343a40;
+    --lightgrey : #b6b6b6;
+
+    --primaryFont: 'Raleway', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,*:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: var(--primaryFont);
+    font-size: 1.6rem;
+    line-height: 1.2;
+    height: 100%;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.container {
+    max-width: 40rem;
+    margin: 0 auto;
+    width: 95%;
+}
+
+.shopping-cart {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: center;
+}
+
+.btn {
+    color: var(--white);
+    background-color: var(--green);
+    font-family: var(--primaryFont);
+    font-size: 1.6rem;
+    border: none;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    transition: background-color .3s;
+    display: inline-block;
+    width: 100%;
+}
+
+.btn:hover {
+    background-color: var(--darkgreen);
+    cursor: pointer;
+}
+
+.btn:disabled {
+    background-color: var(--lightgrey);
+    color: var(--darkgrey);
+    cursor: unset;
+}
+
+
+/* Shopping Cart */
+.shopping-cart-header h2{
+    font-size: 2.4rem;
+    font-weight: 900;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.results-data {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2rem;
+}
+
+.subtotal-text,
+.iva-text,
+.total-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.total-text {
+    font-size: 1.8rem;
+}
+
+.shopping-cart-results p {
+    font-weight: 700;
+}
+
+.results-text {
+    text-align: right;
+    flex-basis: 20rem;
+    margin: 1.5rem 0;
+}
+
+.final-text {
+    margin: 1.5rem 0;
+}
+
+.product-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-row {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    margin: .2rem 0;
+    padding-left: 2rem;
+}
+
+.product-row:last-of-type {
+    margin-bottom: 2rem;
+}
+
+.product-row p {
+    margin: .5rem 0;
+}
+
+.product-name {
+    flex-basis: 30rem;
+    padding-right: 1rem;
+}
+
+.product-units {
+    flex-basis: 7rem;
+    text-align: center;
+    margin: 0;
+}
+
+
