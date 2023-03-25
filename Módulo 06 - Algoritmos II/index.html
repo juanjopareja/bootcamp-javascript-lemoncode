@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playground</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="enigma">
+            <div class="enigma-header">
+                <h2 class="enigma-title">Enigma</h2>
+            </div>
+            <div class="enigma-body">
+                <textarea name="plain-text" id="plain-text" class="text-area" cols="30" rows="10" placeholder="Escribe aquí tu mensaje"></textarea>
+                
+                <div class="enigma-buttons">
+                    <button id="encrypt-button" class="btn" >&darr; Encrypt &darr;</button>
+                    <button id="decrypt-button" class="btn" >&uarr; Decrypt &uarr;</button>
+                </div>
+
+                <textarea name="decrypt-text" id="decrypt-text" class="text-area" cols="30" rows="10"></textarea>
+            </div>
+        </div>
+    </div>
+   
+    <script src="js/algorithms.js"></script>
+</body>
+</html>
