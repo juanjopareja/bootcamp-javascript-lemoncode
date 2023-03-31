@@ -18,9 +18,9 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
   * Módulo 04.c - [Funciones y Eventos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos/M%C3%B3dulo%2004%20-%20Funciones%20y%20Eventos%20III)
 * Módulo 05 - [Arrays y Bucles](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2005%20-%20Arrays%20y%20Bucles)
 * Módulo 06 - [Algoritmos](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos)
-  * Módulo 06.a - Algoritmos I
-  * Módulo 06.b - Algoritmos II
-  * Módulo 06.c - Algoritmos III
+  * [Módulo 06.a - Algoritmos I](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20I)
+  * [Módulo 06.b - Algoritmos II](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20II)
+  * [Módulo 06.c - Algoritmos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20III)
 * Módulo 07 - Expresiones regulares
 * Módulo 08 - Imports
 * Módulo 09 - Llamadas asíncronas
