@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda y Calculadora de billetes y monedas</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="money-change container">
+        <div class="money-change-header">
+            <h2 class="money-change-title">Cambio de billetes y monedas</h2>
+        </div>
+
+        <div class="money-change-body">
+            <div class="money-change-input">
+                <label for="">Importe Total: </label>
+                <input id="total-import" type="number" value="0" min="0">
+            </div>
+
+            <div class="money-change-input">
+                <label for="">Cantidad que se entrega: </label>
+                <input id="total-paid" type="number" value="0" min="0">
+            </div>
+
+            <div class="money-change-button">
+                <button class="btn" id="calculate">Calcular</button>
+            </div>
+
+            <div class="money-change-list">
+                <div class="money-change-text">
+                    <p class="change-text">Devolucion:</p>
+                    <p id="change-value"></p>
+                </div>
+                
+                <div class="money-change-values" id="money-change-values">
+                    
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <script src="js/planner.js"></script>
+    <script src="js/money-calculator.js"></script>
+</body>
+</html>

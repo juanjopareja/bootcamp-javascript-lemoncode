@@ -1,0 +1,115 @@
+:root {
+    --white: #ffffff;
+    --black: #111111;
+    --green: #429c26;
+    --darkgreen: #3a8a22;
+    --darkgrey: #343a40;
+    --lightgrey : #b6b6b6;
+
+    --primaryFont: 'Raleway', sans-serif;
+}
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,*:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: var(--primaryFont);
+}
+
+.container {
+    max-width: 30rem;
+    margin: 0 auto;
+    width: 95%;
+    height: 100%;
+}
+
+.money-change {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15rem;
+}
+
+.money-change-text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.money-change-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.money-change-title {
+    font-size: 2.4rem;
+    text-align: center;
+    margin: 2rem 4rem 4rem 4rem;
+}
+
+.money-change-input {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 0;
+}
+
+.money-change-input label {
+    font-size: 1.6rem;
+    text-align: left;
+    padding-right: 2rem;
+}
+
+.money-change-input input {
+    width: 25%;
+}
+
+.btn {
+    color: var(--white);
+    background-color: var(--green);
+    font-family: var(--primaryFont);
+    font-size: 1.6rem;
+    border: none;
+    border-radius: 5px;
+    padding: 1rem 2rem;
+    transition: background-color .3s;
+    display: inline-block;
+    width: 100%;
+    margin: 2rem 0;
+}
+
+.btn:hover {
+    background-color: var(--darkgreen);
+    cursor: pointer;
+}
+
+.btn:disabled {
+    background-color: var(--lightgrey);
+    color: var(--darkgrey);
+    cursor: unset;
+}
+
+.change-text,
+#change-value {
+    font-size: 1.6rem;
+    margin-top: 1rem;
+}
+
+.money-change-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.money-change-values {
+    padding-left: 2rem;
+    font-size: 1.6rem;
+}
