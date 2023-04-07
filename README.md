@@ -21,7 +21,7 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
   * Módulo 06.a - [Algoritmos I](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20I)
   * Módulo 06.b - [Algoritmos II](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20II)
   * Módulo 06.c - [Algoritmos III](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2006%20-%20Algoritmos/M%C3%B3dulo%2006%20-%20Algoritmos%20III)
-* Módulo 07 - Expresiones regulares
+* Módulo 07 - [Expresiones regulares](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2007%20-%20Expresiones%20regulares)
 * Módulo 08 - Imports
 * Módulo 09 - Llamadas asíncronas
 * Módulo 10 - Conceptos avanzados ES6
