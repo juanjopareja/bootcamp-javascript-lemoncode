@@ -9,5 +9,6 @@ Conjunto de validaciones con expresiones regulares: IBAN, matrícula de coche, t
 
 ## Vista previa
 <p align="center"><br>
-<img src="">
+<img src="https://user-images.githubusercontent.com/125128610/231526590-70252a9b-a9d9-45a3-a40d-1020c1e38ac1.png">
 </p>
+
