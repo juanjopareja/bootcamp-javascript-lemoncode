@@ -1,0 +1,12 @@
+{
+  "name": "imports",
+  "version": "1.0.0",
+  "description": "Ejercicio imports módulo 8 BootcampJS Lemoncode",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
