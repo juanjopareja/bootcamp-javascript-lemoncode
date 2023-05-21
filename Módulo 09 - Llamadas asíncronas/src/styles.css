@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: #eee;
+}
+
+.sections {
+    display: flex;
+}
+
+.characters-section {
+    flex-basis: 33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.episode-section {
+    flex-basis: 33.3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.episode-list {
+    padding: 5px 0;
+}
+
+.character-row,
+.episode-list {
+    cursor: pointer;
+}
+
+#character-detail {
+    position: fixed;
+    right: 0;
+    padding: 25px;
+    background-color: #666;
+    color: white;
+    font-size: 140%;
+    height: 100vh;
+}
+
+.thumbnail {
+    border-radius: 50%;
+    margin: 15px;
+    vertical-align: middle;
+}
