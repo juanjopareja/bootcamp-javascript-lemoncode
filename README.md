@@ -24,6 +24,6 @@ Código de cada una de las prácticas del ***Bootcamp JavaScript*** impartido po
 * Módulo 07 - [Expresiones regulares](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2007%20-%20Expresiones%20regulares)
 * Módulo 08 - [Imports](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2008%20-%20Imports)
 * Módulo 09 - [Llamadas asíncronas](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2009%20-%20Llamadas%20as%C3%ADncronas)
-* Módulo 10 - Conceptos avanzados ES6
+* Módulo 10 - [Conceptos avanzados ES6](https://github.com/juanjopareja/bootcamp-javascript-lemoncode/tree/main/M%C3%B3dulo%2010%20-%20Conceptos%20avanzados%20ES6)
 * Módulo 11 - Clases y This
 * Módulo 12 - Caso Práctico
